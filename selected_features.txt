@@ -1,0 +1,48 @@
+originatingbody
+rank
+separateopinion
+sharepointid
+article=10
+article=34
+article=41
+article=35
+article=29
+article=14
+documentcollectionid=COMMITTEE
+documentcollectionid=GRANDCHAMBER
+applicability=
+paragraphs=5
+paragraphs=P1-1
+paragraphs=8-1
+paragraphs=10
+paragraphs=10-2
+paragraphs=2-1
+paragraphs=34
+paragraphs=41
+paragraphs=35
+paragraphs=8-2
+paragraphs=29
+paragraphs=14
+ccl_article=6
+country.alpha2_de
+country.alpha2_fr
+country.alpha2_gb
+country.alpha2_pl
+country.name_France
+country.name_Germany
+country.name_Poland
+country.name_United Kingdom
+decisiondate_Rare_label
+doctypebranch_GRANDCHAMBER
+introductiondate_Rare_label
+issue.0_Rare_label
+originatingbody_name_Fourth Section
+originatingbody_name_Grand Chamber
+originatingbody_name_Second Section
+parties.1_POLAND
+parties.1_Rare_label
+parties.1_THE UNITED KINGDOM
+parties.1_TURKEY
+respondent.0_DEU
+respondent.0_FRA
+respondent.0_GBR
